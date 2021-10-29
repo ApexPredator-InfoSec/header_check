@@ -11,4 +11,5 @@ This scripts accepts a URL passed with -t or --target and test the URL for the 4
  
 If multiple URLs are needed they can be passed in a file with -f or --file to test all URLs in the file
 
-  ![image](https://user-images.githubusercontent.com/84335647/139359502-e43f47a1-74db-4a5e-81ea-9068cef4e21d.png)
+![image](https://user-images.githubusercontent.com/84335647/139359725-3fcce880-c3f2-4234-8d9f-f279b69b3f4c.png)
+
