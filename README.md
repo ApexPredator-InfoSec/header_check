@@ -1,6 +1,9 @@
 # header_check
 Python script to test for 'Strict-Transport-Security', 'Content-Security-Policy', 'X-Frame-Options', and 'Server' headers in a get response
 
+This script is a solution to the Week2 project in Red Siege's python challenge https://redsiege.com/python
+
+
 Usage: python3 headers.py -t <target url>
        python3 headers.py -f <file containing urls>
  
