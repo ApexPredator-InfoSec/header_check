@@ -77,7 +77,7 @@ def main():
                 print("\n[+]Fetching URL from file.......\n")
                 test_url(target) #test the url currently set in target
     else:
-        print("[-]Either -t or -f arguments are required\nusage: python3 -t <target> -f <file contianing target list> -d\npython3 headers.py -t https://securityheaders.com -d\npython3 headers.py -f urls.txt") #print help message if neither -t or -f is passed
+        print("[-]Either -t or -f arguments are required\nusage: python3 headers.py -t <target> -f <file contianing target list> -d\npython3 headers.py -t https://securityheaders.com -d\npython3 headers.py -f urls.txt") #print help message if neither -t or -f is passed
 
 if __name__ == '__main__':
 
